@@ -1,4 +1,4 @@
-# YouTube-downloader
+# YouTube-downloader-1080p-above
 Download youtube videos above 720p with audio track
 
 I wrote this halfhazard script because I am sick of the ad flood on YouTube and the instability of online video downloader webapps.
