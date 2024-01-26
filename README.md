@@ -7,9 +7,7 @@ This script uses pytube and moviepy libraries.
 
 Pytube cannot download videos above 1080p with original audio track. This script automates the process of downloading both the video and audio and combining them to produce the output video, and delete the by_product video and audio files.
 
-pip install pytube
-
-pip install moviepy
+pip install pytube, moviepy
 
 Change the download folder directory at the top of the script
 
