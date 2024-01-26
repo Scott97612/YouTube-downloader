@@ -2,7 +2,8 @@ from pytube import YouTube
 import moviepy.editor as mpe
 import sys, os
 
-download_folder = '/Users/scott/Downloads'
+# change it to your desired download directory
+download_folder = '/Users/<username>/Downloads' 
 
 def get_720p(url: str):
 
